@@ -1,1 +1,2 @@
 "# certify" 
+"# hacktoberfest-partners" 
